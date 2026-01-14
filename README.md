@@ -1,5 +1,4 @@
-# LiveContainer + SideStore iOS Guide
-
+# LiveContainer + SideStore iOS Guide (Including Shortcuts with LocalDevVPN)
 ## Contents
 
 - [Important notes](#important-notes) 
@@ -12,7 +11,8 @@
 - [STEP 7 – First-time setup inside LiveContainer](#step-7-first-time-setup-inside-livecontainer) 
 - [STEP 8 – Enable JIT-less / VPN mode](#step-8-enable-jit-less-vpn-mode) 
 - [STEP 9 – Adding more LiveContainers (optional)](#step-9-adding-more-livecontainers-optional) 
-- [STEP 10 – Installing and running IPAs inside LiveContainer](#step-10-installing-and-running-ipas-inside-livecontainer) 
+- [STEP 10 – Installing and running IPAs inside LiveContainer](#step-10-installing-and-running-ipas-inside-livecontainer)
+- - [iOS Shortcut Automation Guide](SHORTCUT-AUTOMATION-GUIDE.md)
 - [Suggested graphics / screenshots](#suggested-graphics-screenshots)
 
 ## Important notes
