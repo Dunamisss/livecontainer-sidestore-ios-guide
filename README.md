@@ -1,4 +1,7 @@
 # LiveContainer + SideStore iOS Guide (Including Shortcuts with LocalDevVPN)
+
+> **[Interactive Version on Perplexity Spaces](https://www.perplexity.ai/spaces/livecontainer-sidestore-ios-gu-TnF9FOzbRIWD1ykvMNEmhw)** - Search, ask questions, and explore the guide with AI assistance
+
 ## Contents
 
 - [Important notes](#important-notes) 
