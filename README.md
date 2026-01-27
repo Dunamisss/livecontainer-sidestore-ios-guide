@@ -17,8 +17,7 @@
 
 ## Important notes
 
-- This is a **generic** guide for iOS 15–18; exact screens may differ slightly on each iPhone model.
-- You need a PC (Windows or Mac) once to set up SideStore properly; after that you can refresh apps on the phone.
+- This is a **generic** guide for iOS 15-26.2 (tested on iPhone 17 Pro); exact screens may differ slightly on each iPhone model.- You need a PC (Windows or Mac) once to set up SideStore properly; after that you can refresh apps on the phone.
 - LiveContainer + SideStore is experimental but widely used to bypass the 3‑app limit and keep everything in one app.
 
 ***
